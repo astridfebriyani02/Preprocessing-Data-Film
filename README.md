@@ -18,7 +18,7 @@ Proyek ini berfokus pada pembersihan dataset agar data yang semula mentah beruba
 ## Dataset
 Data awal (movie_sample_dataset.csv) berisi informasi seputar film, mencakup: nama sutradara, durasi, anggaran, pendapatan kotor, tahun rilis, skor IMDb, negara, format (berwarna/hitam putih), genre, bahasa, pemeran, jumlah like di Facebook, serta judul film.
 ## Proses Preprocessing
-Skrip preprocess_movie.py menjalankan beberapa tahap preprocessing data, diantaranya:
+Skrip Preprocessing_Data.ipynb menjalankan beberapa tahap preprocessing data, diantaranya:
 1. Pembersihan data, diantaranya
    - Penananganan (menghapus) nilai yang hilang, seperti pada kolom gross dan budget.
    - Penananganan nilai yang tidak konsisten atau kesalahan penulisan, seperti perbedaan penulisan antara "color" dan "Color".
